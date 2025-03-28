@@ -1,2 +1,6 @@
 evaluate
 bert_score
+nltk
+sacrebleu
+rouge_score
+numpy==1.26.4
